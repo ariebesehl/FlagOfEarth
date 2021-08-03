@@ -40,7 +40,7 @@ A Flag of Earth, inspired by James W. Cadle's Flag of Earth, with additional det
 
 ## Motivation
 
-For a web application I'm working on, I needed a Flag of Earth. I entered "Earth" as `$COUNTRY` into my Python script for downloading flag SVGs off of the Wikimedia Commons, and was quite surprised to see it didn't `404`. I was also equally surprised by the downloaded flag itself, especially about its inclusion of the sun and the moon, which, more often than not, go ignored on other, rather earth-centric, flag representations of Earth. However, I did soon find the flag somewhat rather lackluster in details, and thought about ways of improving it.
+For a web application I'm working on, I needed a Flag of Earth. I entered "Earth" as `$COUNTRY` into my Python script for downloading flag SVGs off of the Wikimedia Commons, and was quite surprised to see it didn't `404`. I was also equally surprised by the downloaded flag itself, especially about its inclusion of the sun and the moon, which, more often than not, go ignored on other, rather Earth-centric, flag representations of Earth. However, I did soon find the flag somewhat rather lackluster in details, and thought about ways of improving it.
 
 
 ## License
